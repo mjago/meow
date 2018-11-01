@@ -3,8 +3,7 @@ package meow_test
 import (
 	"fmt"
 	"testing"
-
-	"github.com/mmcloughlin/meow"
+	"github.com/mjago/meow"
 )
 
 // buffer is pre-allocated to avoid allocations in benchmarking functions themselves.
